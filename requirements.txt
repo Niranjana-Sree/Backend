@@ -1,8 +1,8 @@
-fastapi
-uvicorn
+flask
 numpy
 pandas
 scikit-learn
-torch
-transformers
-# add any others you use
+joblib
+matplotlib
+requests
+tqdm
